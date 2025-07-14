@@ -2,7 +2,7 @@
 
 An algorithm that transforms an input image using random walks.
 
-The following images are all generated with the default Windows XP background as the source image.
+The following images are all generated with the default Windows XP background (by Charles O'Rear) as the source image.
 
 <center>
 <img src="./img/post-1.png" width=150>
