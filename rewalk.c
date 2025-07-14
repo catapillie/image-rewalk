@@ -129,7 +129,9 @@ SDL_AppResult generate_rewalked_image()
 
     dest_is_set = SDL_calloc(width * height, sizeof(bool));
 
-    current_work = work_cons(width / 2, height / 2, source_image->w / 2, source_image->h / 2, current_work);
+    int color_start_x = SDL_rand(source_image->w);
+    int color_start_y = SDL_rand(source_image->h);
+    current_work = work_cons(width / 2, height / 2, color_start_x, color_start_y, current_work);
     while (current_work != NULL)
         process_work();
 
