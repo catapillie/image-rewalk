@@ -4,13 +4,9 @@ An algorithm that transforms an input image using random walks.
 
 The following images are all generated with the default Windows XP background (by Charles O'Rear) as the source image.
 
-<center>
-<img src="./img/post-1.png" width=150>
-<img src="./img/post-2.png" width=150>
-<img src="./img/post-3.png" width=150>
+<img src="./img/post-1.png" width=150> <img src="./img/post-2.png" width=150> <img src="./img/post-3.png" width=150>
 
 <img src="./img/pre.png" width=458>
-</center>
 
 ## Compilation
 
