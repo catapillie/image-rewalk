@@ -14,7 +14,7 @@ The following images are all generated with the default Windows XP background (b
 
 The project is meant to be built with `SDL3` and `SDL3_image`. Assuming these are locally installed, and accessible with `-l`, the main file is compiled with:
 ```sh
-gcc -Wall -o rewalk -lSDL3 -lSDL3_image -lm rewalk.c
+gcc -Wall -o rewalk -lSDL3 -lSDL3_image rewalk.c
 ```
 
 ## Usage
