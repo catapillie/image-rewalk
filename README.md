@@ -1,3 +1,5 @@
+<img src="./img/banner.png">
+
 ## Image rewalk, `rewalk`
 
 An algorithm that transforms an input image using random walks.
@@ -36,3 +38,15 @@ EXAMPLE:
 ## Notes
 
 This was inspired by the Rainbow Smoke algorithm, as showcased in [this video](https://www.youtube.com/watch?v=dVQDYne8Bkc) by Generative Garden. But my version does not ensure all pixels from the source image are all used. Feel free to contribute!
+
+### More showcase
+
+<img src="./img/showcase-1a.png" width=250> <img src="./img/showcase-1b.png" width=250>
+
+<img src="./img/showcase-2a.png" width=250> <img src="./img/showcase-2b.png" width=250>
+
+<img src="./img/showcase-3a.png" width=250> <img src="./img/showcase-3b.png" width=250>
+
+<img src="./img/showcase-4.png" width=508>
+
+<img src="./img/showcase-5a.png" width=250> <img src="./img/showcase-5b.png" width=250>
